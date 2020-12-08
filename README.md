@@ -9,7 +9,7 @@
 | slideSize     | `number`                          | `56`                                   | 滑块卡片的大小                                    |
 | slideRadius   | `number`                          | `10`                                   | 滑块卡片的圆圈半径                                |
 | accuracy      | `number`                          | `5`                                    | 机器验证精确度，-1表示不验证是否机器              |
-| barText       | `string | html`                   | "&lt;&lt; 按住滑块，向右拖动 &gt;&gt;" | 滑块提示语                                        |
+| barText       | `[string, html]`                  | "&lt;&lt; 按住滑块，向右拖动 &gt;&gt;" | 滑块提示语                                        |
 | resource      | string[]                          | `[]`                                   | 图片资源，默认使用`https://picsum.photos`上的资源 |
 
 ## 使用
