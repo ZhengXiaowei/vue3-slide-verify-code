@@ -52,7 +52,7 @@ export default App;
 
 ## 效果
 
-![Vue Slide Verify Code](http://normal-image.xiaovv-web.com/normal/2020-12-08-verify-code-gif.gif)
+[效果展示]](http://normal-image.xiaovv-web.com/normal/2020-12-08-verify-code-gif.gif)
 
 ## TODO
  - npm
